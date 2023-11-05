@@ -1,0 +1,2 @@
+http GET https://api.spotify.com/v1/browse/new-releases \
+  Authorization:'Bearer 1POdFZRZbvb...qqillRxMr2z'
